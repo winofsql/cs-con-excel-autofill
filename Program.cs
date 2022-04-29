@@ -1,6 +1,6 @@
 using System;
 
-namespace excel_2020_11_26
+namespace cs_con_excel_autofill
 {
     class Program
     {
